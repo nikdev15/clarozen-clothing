@@ -5,7 +5,7 @@
   <p align="center">
     The latest fashion now at your doorstep!
     <br />
-    <a href="https://github.com/nikdev15/Smart-Brain/blob/main/README.md#-smart-brain-app-"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nikdev15/clarozen-clothing/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://smart-brain-nik.herokuapp.com/">View Demo</a>
