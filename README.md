@@ -8,7 +8,7 @@
     <a href="https://github.com/nikdev15/clarozen-clothing/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://smart-brain-nik.herokuapp.com/">View Demo</a>
+    <a href="https://clarozen-live.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/nikdev15/clarozen-clothing/issues">Report Bug</a>
     ·
@@ -99,4 +99,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Email - nikhilisaac1519@gmail.com
 
-Project Link: (https://github.com/nikdev15/clarozen-clothing)
+Project Link: (https://clarozen-live.herokuapp.com/)
+
+Project Docs : (https://github.com/nikdev15/clarozen-clothing)
